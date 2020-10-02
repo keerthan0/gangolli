@@ -1,5 +1,4 @@
 
-# Made by abhra kanti Dubey
 #pip install wikipedia
 
 import wikipedia
